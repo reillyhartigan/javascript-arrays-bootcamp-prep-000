@@ -1,1 +1,1 @@
-var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"] //define array
+var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]; //define array
