@@ -1,7 +1,7 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]; //define array
-function addElementToEndOfArray() {
+function addElementToEndOfArray(a, b) {
 
 };
-function destructivelyAddElementToBeginningOfArray() {
+function destructivelyAddElementToBeginningOfArray(a, b) {
 
 }
